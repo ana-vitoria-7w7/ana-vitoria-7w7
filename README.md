@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ana-vitoria-7w7
-- 🌱 I’m currently learning Java and HTMl
+- 🌱 I’m currently learning Java and HTML
 - 😄 Pronouns: she/her
 
 <!---
